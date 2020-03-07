@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  neversitup pretest
 //
-//  Created by admin on 7/3/2563 BE.
+//  Created by Amornthap on 7/3/2563 BE.
 //  Copyright © 2563 Ligament Studio. All rights reserved.
 //
 
